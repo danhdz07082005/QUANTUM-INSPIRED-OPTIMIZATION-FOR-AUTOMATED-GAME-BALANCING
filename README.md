@@ -27,11 +27,14 @@ using evolutionary and quantum-inspired algorithms.
 
 ## Installation
 
-```bash
-git clone [https://anonymous.4open.science/r/QUANTUM-INSPIRED-OPTIMIZATION-FOR-AUTOMATED-GAME-BALANCING-7DAC](https://anonymous.4open.science/r/QUANTUM-INSPIRED-OPTIMIZATION-FOR-AUTOMATED-GAME-BALANCING-7DAC)
-cd QUANTUM-INSPIRED-OPTIMIZATION-FOR-AUTOMATED-GAME-BALANCING-7DAC
-pip install -r requirements.txt
-```
+**For Reviewers:** Please click the "Download" button on this anonymized repository page to get the source code as a ZIP file.
+
+1. Extract the downloaded ZIP file to your local machine.
+2. Open your terminal and navigate into the extracted directory:
+   ```bash
+   cd <name_of_extracted_folder>
+   pip install -r requirements.txt
+   ```
 
 > [!WARNING]
 > **GPU Acceleration (CUDA) on Windows:**
