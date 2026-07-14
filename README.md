@@ -28,7 +28,7 @@ using evolutionary and quantum-inspired algorithms.
 ## Installation
 
 ```bash
-git clone https://anonymous.4open.science/r/qio-game-balancing
+git clone https://anonymous.4open.science/r/QUANTUM-INSPIRED-OPTIMIZATION-FOR-AUTOMATED-GAME-BALANCING-5CDB
 cd AQEA-Game-Balancer
 pip install -r requirements.txt
 ```
